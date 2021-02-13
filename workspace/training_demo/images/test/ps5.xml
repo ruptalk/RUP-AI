@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ps</folder>
+	<filename>ps5.png</filename>
+	<path>/Users/hogbal/Desktop/test/ps/ps5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>301</ymin>
+			<xmax>394</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ps</folder>
+	<filename>ps81.png</filename>
+	<path>/Users/hogbal/Desktop/test/ps/ps81.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>172</ymin>
+			<xmax>395</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>
